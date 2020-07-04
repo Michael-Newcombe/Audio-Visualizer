@@ -1,1 +1,2 @@
 # Audio-Visualizer
+![](preview.gif)
