@@ -1,6 +1,10 @@
 # Audio-Visualizer
 An audio visualizer created using openFrameworks and the Maximilian library that renders 3D primitive objects which react to different aspects of the music.
 
+**Video link:** https://vimeo.com/384513288
+
+**Blog link** https://www.tumblr.com/blog/michaelavproject
+
 ![](preview.gif)
 
 **Prerequisites:** openFrameworks (should work on lastest if not try v0.10.1), ofxMaxim
